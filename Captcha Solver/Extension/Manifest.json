@@ -1,0 +1,15 @@
+{
+  "name": "gemini-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "multer": "latest",
+    "cors": "latest",
+    "@google/generative-ai": "latest",
+    "dotenv": "latest"
+  }
+}
